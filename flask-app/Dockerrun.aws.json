@@ -1,12 +1,12 @@
 {
   "AWSEBDockerrunVersion": "1",
   "Image": {
-    "Name": "prakhar1989/catnip",
+    "Name": "pancaldim/catnip",
     "Update": "true"
   },
   "Ports": [
     {
-      "ContainerPort": 5000,
+      "ContainerPort": 5005,
       "HostPort": 8000
     }
   ],
