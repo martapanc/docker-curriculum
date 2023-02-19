@@ -35,7 +35,7 @@
     "browser-sync": "^2.27.10",
     "dot-prop": ">=5.1.1",
     "nodemon": "^2.0.20",
-    "qs": ">=6.0.4",
+    "qs": ">=6.9.7",
     "websocket-extensions": ">=0.1.4"
   }
 }
